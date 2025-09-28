@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Browser App</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+  <h1>🌐 Welcome to My Browser App!</h1>
+  <p>This is running directly in your browser using GitHub Pages.</p>
+  <button onclick="alert('Hello from my app!')">Click Me</button>
+</body>
+</html>
